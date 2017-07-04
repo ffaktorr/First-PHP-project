@@ -1,0 +1,49 @@
+#parent {
+    margin-top: 200px;
+    margin-left: 400px;
+}
+#parent2{
+
+    margin-top: 200px;
+    margin-right: 500px;
+
+}
+#login{
+    display:table;
+    width: 100%;
+    margin-top: 400px;
+
+ }
+#login2{
+    display:table;
+    width: 100%;
+    margin-top: 200px;
+
+}
+#form_login {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+#table {
+
+    font-family: arial, sans-serif;
+    border: groove;
+    width: 50%;
+}
+
+#td, #th {
+    border: 1px groove;
+    text-align: center;
+    padding: 8px;
+}
+
+#tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.crop {
+    width: 125px;
+    height: 125px;
+    overflow: hidden;
+}
